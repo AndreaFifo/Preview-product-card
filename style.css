@@ -49,7 +49,7 @@ body{
     font-family: "Montserrat";
 }
 
-.card-container .text h1, .card-container .text .price{
+.card-container .text h1, .card-container .text .price, .card-container .text .price .descr{
     font-family: "Fraunces";
 }
 
