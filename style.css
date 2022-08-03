@@ -70,6 +70,7 @@ body{
 
 .card-container .text h1{
     color: hsl(212, 21%, 14%);
+    font-weight: initial;
 }
 
 .text .price{
